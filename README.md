@@ -192,9 +192,9 @@ Summary -- Consolidated banking performance
 
 ScreenShots 
 Home : ![Home](https://github.com/PrajwalMirji44/Banking-DashBoard/blob/main/Screenshot%202026-08-29%20132819.png)
-Loan Analysis : ![Loan Analysis](Screenshot 2026-08-29 132828.png)
-Deposit Analysis : ![Deposit Analysis](Screenshot 2026-08-29 132843.png)
-Summary : ![Summary](Screenshot 2026-08-29 132851.png)
+Loan Analysis : ![Loan Analysis](https://github.com/PrajwalMirji44/Banking-DashBoard/blob/main/Screenshot%202026-08-29%20132828.png)
+Deposit Analysis : ![Deposit Analysis](https://github.com/PrajwalMirji44/Banking-DashBoard/blob/main/Screenshot%202026-08-29%20132843.png)
+Summary : ![Summary](https://github.com/PrajwalMirji44/Banking-DashBoard/blob/main/Screenshot%202026-08-29%20132851.png)
 
 👤 Author
 
